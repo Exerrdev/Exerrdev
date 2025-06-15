@@ -39,7 +39,8 @@ Estoy comprometido a seguir mejorando y aprendiendo. En este momento, estoy:
 
 ### 📫 Contacto
 - 📧 Email: *jaimesh.dev97@gmail.com*
-- 🐧 Siempre en Linux 😎
+- [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/1Freija)
+
 
 ---
 
