@@ -1,6 +1,6 @@
 # 👋 Hola, soy Exerr
 
-Soy un apasionado de la **Ciberseguridad**, con enfoque en el **Blue Team** y hacking ético. Me encanta aprender, romper cosas (legalmente 😄) y proteger sistemas.
+Soy un apasionado de la **Ciberseguridad**, con enfoque en el **Blue Team** y hacking ético. Me encanta aprender, realizar CTF y proteger sistemas.
 
 ---
 
