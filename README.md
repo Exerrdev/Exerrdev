@@ -29,8 +29,7 @@ Soy un apasionado del **Desarrollo de Software**, enfocado en construir aplicaci
 
 ### 🔭 Proyectos Destacados
 
-<a href="https://www.armandopartidos.com" target="_blank">
-  <img src="ruta/a/tu/logo.png" alt="Logo Armando Partidos" width="80" align="right">
+<a href="https://www.armandopartidos.com" target="_blank">  
 </a>
 
 #### ⚽ [Armando Partidos](https://www.armandopartidos.com)
